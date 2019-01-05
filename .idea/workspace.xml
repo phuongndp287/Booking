@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="576da35c-7242-4b5e-83cb-92f9b563bee4" name="Default Changelist" comment="aa">
+      <change afterPath="$PROJECT_DIR$/.buildpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Sourcecode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.php.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/cache/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/cache/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/constants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/doctypes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/foreign_chars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/hooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/mimes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/profiler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/smileys.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/user_agents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Autoloader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/APC.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/CacheBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/ICache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/Igbinary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/Memcache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/Memory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/SQLite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/SQLite3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorage/Wincache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CachedObjectStorageFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CalcEngine/CyclicReferenceStack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/CalcEngine/Logger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/DateTime.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/Engineering.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/ExceptionHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/Financial.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/FormulaParser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/FormulaToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/Function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/Functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/Logical.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/LookupRef.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/MathTrig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/Statistical.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/TextData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/Token/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Calculation/functionlist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Cell.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Cell/AdvancedValueBinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Cell/DataType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Cell/DataValidation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Cell/DefaultValueBinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Cell/Hyperlink.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Cell/IValueBinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/Axis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/DataSeries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/DataSeriesValues.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/GridLines.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/Layout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/Legend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/PlotArea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/Properties.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/Renderer/jpgraph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Chart/Title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/DocumentProperties.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/DocumentSecurity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/HashTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Helper/HTML.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/IComparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/IOFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/NamedRange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Abstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/CSV.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/DefaultReadFilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel2003XML.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel2007.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel2007/Chart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel2007/Theme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/Color.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/Color/BIFF5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/Color/BIFF8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/Color/BuiltIn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/ErrorCode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/Escher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/MD5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/RC4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/Style/Border.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Excel5/Style/FillPattern.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/Gnumeric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/HTML.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/IReadFilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/IReader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/OOCalc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Reader/SYLK.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/ReferenceHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/RichText.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/RichText/ITextElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/RichText/Run.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/RichText/TextElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/CodePage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Date.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Drawing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Escher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Escher/DgContainer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Escher/DggContainer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Excel5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/File.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/Font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/JAMA/Matrix.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/JAMA/utils/Error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/JAMA/utils/Maths.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/OLE.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/OLE/ChainedBlockStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/OLE/PPS.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/OLE/PPS/File.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/OLE/PPS/Root.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/OLERead.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/PCLZip/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/PasswordHasher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/String.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/TimeZone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/XMLWriter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/ZipArchive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/ZipStreamWrapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/trend/bestFitClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/trend/exponentialBestFitClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/trend/linearBestFitClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/trend/powerBestFitClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Shared/trend/trendClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/Alignment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/Border.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/Borders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/Color.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/Conditional.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/Fill.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/Font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/NumberFormat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/Protection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Style/Supervisor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/AutoFilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/AutoFilter/Column.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/BaseDrawing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/CellIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/Column.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/ColumnCellIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/ColumnDimension.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/ColumnIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/Dimension.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/Drawing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/Drawing/Shadow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/HeaderFooter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/MemoryDrawing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/PageMargins.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/PageSetup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/Protection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/Row.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/RowCellIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/RowDimension.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/RowIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet/SheetView.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/WorksheetIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Abstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/CSV.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/Chart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/Comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/ContentTypes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/DocProps.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/Drawing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/Rels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/RelsRibbon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/RelsVBA.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/StringTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/Style.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/Theme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/Workbook.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/Worksheet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel2007/WriterPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel5/Escher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel5/Font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel5/Parser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel5/Workbook.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel5/Worksheet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Excel5/Xf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/HTML.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/IWriter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument/Cell/Comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument/Content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument/Meta.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument/MetaInf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument/Mimetype.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument/Settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument/Styles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument/Thumbnails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/OpenDocument/WriterPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/PDF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/PDF/Core.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/PDF/DomPDF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/PDF/mPDF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Writer/PDF/tcPDF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/bg/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/cs/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/cs/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/da/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/da/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/de/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/de/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/en/uk/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/es/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/es/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/fi/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/fi/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/fr/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/fr/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/hu/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/hu/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/it/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/it/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/nl/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/nl/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/no/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/no/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/pl/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/pl/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/pt/br/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/pt/br/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/pt/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/pt/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/ru/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/ru/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/sv/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/sv/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/tr/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/locale/tr/functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/bookings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/clients.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/destinations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/language.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/members.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/statistics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/suppliers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/admin/tours.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/booking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/errors/error_404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/errors/error_db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/errors/error_general.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/errors/error_php.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/errors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/helpers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/hooks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/bookings_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/clients_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/dashboard_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/destinations_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/members_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/navigation_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/settings_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/statistics_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/supplier_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/english/tours_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/bookings_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/clients_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/dashboard_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/destinations_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/form_validation_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/members_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/navigation_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/settings_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/statistics_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/kinyarwanda/tours_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/makedonski/bookings_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/makedonski/clients_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/makedonski/dashboard_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/makedonski/destinations_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/makedonski/members_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/makedonski/navigation_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/makedonski/settings_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/makedonski/statistics_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/makedonski/tours_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/bookings_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/clients_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/dashboard_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/destinations_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/members_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/navigation_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/settings_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/statistics_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/language/shqip/tours_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/libraries/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/logs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/booking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/dashboard_stats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/destination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/setting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/stats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/supplier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/tour.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/third_party/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/bookings/add_ticket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/bookings/booking_success.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/bookings/bookings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/bookings/edit_booking.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/bookings/pdf_generator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/bookings/process_ticket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/clients/clients.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/clients/list_tickets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/dashboard/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/destinations/add_destination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/destinations/destinations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/destinations/edit_destination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/login_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/members/add_member.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/members/edit_member.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/members/members.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/settings/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/statistics/statistics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/suppliers/dialog_add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/suppliers/dialog_css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/suppliers/list_tickets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/suppliers/suppliers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/suppliers/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/tours/add_tour.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/tours/edit_tour.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/tours/passangers_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/backend/tours/tours.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/frontend/common/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/frontend/common/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/frontend/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/frontend/step1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/includes/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/includes/navigation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/includes/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/includes/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/search_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/frontend.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/iconFont.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/tripexpress.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconFont.dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconFont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconFont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconFont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconFont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconFont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bus_example_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/travel_airplane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/docs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ie10-viewport-bug-workaround.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/images/ui-icons_cc0000_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-ui.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-ui.theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Benchmark.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/CodeIgniter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Common.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Exceptions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Hooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Input.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Loader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Output.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Security.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/URI.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/Utf8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/core/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/DB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/DB_active_rec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/DB_cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/DB_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/DB_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/DB_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/DB_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/cubrid_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/cubrid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mssql/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mssql/mssql_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysql/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysql/mysql_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/mysqli/mysqli_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/oci8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/oci8/oci8_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/odbc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/odbc/odbc_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/pdo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/pdo/pdo_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/postgre/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/postgre/postgre_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlite/sqlite_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_forge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/drivers/sqlsrv/sqlsrv_utility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/database/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/fonts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/fonts/texb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/array_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/captcha_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/cookie_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/date_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/directory_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/LICENSE.LGPL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/dompdf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/dompdf_config.custom.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/dompdf_config.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/absolute_positioner.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/abstract_renderer.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/attribute_translator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/autoload.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/block_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/block_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/block_positioner.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/block_renderer.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/cached_pdf_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/canvas.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/canvas_factory.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/cellmap.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/cpdf_adapter.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/css_color.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/dompdf.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/dompdf_exception.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/dompdf_image_exception.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/file.skel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/fixed_positioner.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/font_metrics.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/frame.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/frame_factory.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/frame_tree.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/functions.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/gd_adapter.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/image_cache.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/image_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/image_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/image_renderer.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/inline_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/inline_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/inline_positioner.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/inline_renderer.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/javascript_embedder.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/line_box.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/list_bullet_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/list_bullet_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/list_bullet_image_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/list_bullet_positioner.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/list_bullet_renderer.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/null_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/null_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/null_positioner.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/page_cache.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/page_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/page_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/pdflib_adapter.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/php_evaluator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/positioner.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/renderer.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/style.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/stylesheet.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_cell_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_cell_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_cell_positioner.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_cell_renderer.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_row_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_row_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_row_group_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_row_group_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_row_group_renderer.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/table_row_positioner.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/tcpdf_adapter.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/text_frame_decorator.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/text_frame_reflower.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/include/text_renderer.cls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/class.pdf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Courier-Bold.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Courier-BoldOblique.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Courier-Oblique.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Courier.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans-Bold.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans-BoldOblique.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans-BoldOblique.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans-ExtraLight.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans-Oblique.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans-Oblique.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSans.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansCondensed-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansCondensed-Bold.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansCondensed-BoldOblique.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansCondensed-BoldOblique.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansCondensed-Oblique.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansCondensed-Oblique.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansCondensed.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansCondensed.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansMono-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansMono-Bold.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansMono-BoldOblique.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansMono-BoldOblique.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansMono-Oblique.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansMono-Oblique.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansMono.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSansMono.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerif-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerif-Bold.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerif-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerif-BoldItalic.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerif-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerif-Italic.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerif.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerif.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerifCondensed-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerifCondensed-Bold.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerifCondensed-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerifCondensed-BoldItalic.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerifCondensed-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerifCondensed-Italic.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerifCondensed.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/DejaVuSerifCondensed.ufm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Helvetica-Bold.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Helvetica-BoldOblique.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Helvetica-Oblique.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Helvetica.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Symbol.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Times-Bold.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Times-Bold.afm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Times-BoldItalic.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Times-Italic.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Times-Roman.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/Times-Roman.afm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/ZapfDingbats.afm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/dompdf_font_family_cache.dist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/log.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/fonts/mustRead.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/html5lib/Data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/html5lib/InputStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/html5lib/Parser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/html5lib/Tokenizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/html5lib/TreeBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/html5lib/named-character-references.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/res/broken_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/lib/res/html.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/load_font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/cssSandpaper/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/cssSandpaper/js/EventHelpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/cssSandpaper/js/cssQuery-p.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/cssSandpaper/js/cssSandpaper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/cssSandpaper/js/jcoglan.com/sylvester.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/debugger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/examples.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/fonts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/foot.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/functions.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/head.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/arrow_01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/arrow_02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/arrow_03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/arrow_04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/arrow_05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/arrow_06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/css2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/dompdf_simple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/h_bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/left_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/logo.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/php5-power-micro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/small_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/star_01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/star_02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/star_03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/star_04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/star_05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/v_bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/images/xhtml10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/jquery-1.4.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/setup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/backgroundcolor_fontdecoration_pageborder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/importabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/importall.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/importdisplay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/importprint.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/importsub.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/linkall.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/linkdefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/linkdisplay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/linkprint.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css/print_static.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_2d_transforms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_at_font_face.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_baseline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_border.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_border_radius.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_color_cmyk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_counter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_float.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_font_selection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_important_flag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_letter_spacing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_line_height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_margin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_multiple_class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_nth_child.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_opacity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_outline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_overflow_hidden.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_position_absolute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_position_all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_position_fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_table_height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_table_layout_fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_text_align.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_text_decoration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_vertical_align.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_vertical_align_w3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_whitespace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_word_wrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/css_z_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/demo_01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_anchor_link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_br.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_form_fieldset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_large_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_long_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_nbsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_nested_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_ol.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_simple_ul.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_table_image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_ul.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/encoding_entities.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/encoding_latin1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/encoding_special.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/encoding_symbols.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/encoding_unicode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/encoding_unicode_wrapping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/encoding_utf-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/encoding_utf-8_all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/encoding_utf-8_w3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_bmp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_datauri.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_dimensions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_gif.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_remote.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_transparent_gif.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_transparent_png.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/image_variants.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test1.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test16.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test16bf555.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test16bf555.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test16bf565.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test16bf565.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test24.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test32.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test32bf.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test32bf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test32bfv4.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test32bfv4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test32v5.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test32v5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test4.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test4os2v2.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test4os2v2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test8.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test8os2.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/test8os2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/testcompress4.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/testcompress4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/testcompress8.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/testcompress8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/trans.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/bmp/trans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/cmyk_test2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/dokuwiki-128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/dompdf_simple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/goldengate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/grid-36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/no_extension" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/php.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/gray16a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/gray16a_bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/gray16b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/gray16b_bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/gray8a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/gray8a_bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/gray8b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/gray8b_bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/pal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/pal_bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/pal_bk_notrns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/palb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_16ns.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_1trns.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_bla.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_dith.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_gra.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_mag.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_magthr1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_no.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_nsbug.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_ok.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_oprbug.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_thr1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_thr128.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_thr255.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_whi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_yel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/result_yelthr1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultb_bla.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultb_bug.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultb_mag.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultb_moz2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultb_no.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultb_ok.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultb_whi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultb_yel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultg_bla.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultg_dgr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultg_lgr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultg_no.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultga.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultgb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultgb_dgr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultgb_no.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/resultpb_no.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/rgb16_t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/rgb16_t_bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/rgb8_t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/rgb8_t_bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/rgba16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/rgba16_bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/rgba8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/rgba8_bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/png/stripe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/smiley.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/unknown_extension.foo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/vblank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/images/what_ordered.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/page_pages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/print_header_footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/quirks_center_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/quirks_font_tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/quirks_html_attributes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/script_javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf/www/test/script_php.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/dompdf_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/download_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/email_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/file_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/form_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/html_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/inflector_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/language_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/number_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/path_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/security_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/smiley_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/string_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/text_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/typography_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/url_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/helpers/xml_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/calendar_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/date_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/db_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/email_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/form_validation_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/ftp_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/imglib_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/migration_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/number_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/profiler_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/unit_test_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/english/upload_lang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/language/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Cache/Cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_apc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_dummy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_file.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/Cache_memcached.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Cache/drivers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Cache/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Calendar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Driver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Encrypt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Form_validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Ftp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Image_lib.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Javascript.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Log.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Migration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Parser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Profiler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Sha1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Trackback.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Typography.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Unit_test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/User_agent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Xmlrpc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Xmlrpcs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/Zip.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/javascript/Jquery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/libraries/javascript/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/admin/suppliers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/supplier.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1512">
+              <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/admin/clients.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="36" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/client.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/admin/bookings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2106">
+              <caret line="117" column="45" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/frontend.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1818">
+              <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/dashboard.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="4" column="66573" selection-start-line="4" selection-start-column="66569" selection-end-line="4" selection-end-column="66573" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css.map">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle</find>
+      <find>/</find>
+      <find>ui-dialog-titlebar-close</find>
+      <find>dialog</find>
+      <find>text ui-widget-content ui-corner-all</find>
+      <find>body</find>
+      <find>col-sm-12</find>
+      <find>nav-</find>
+      <find>conta</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/controllers/admin/clients.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/suppler.php" />
+        <option value="$PROJECT_DIR$/application/models/client.php" />
+        <option value="$PROJECT_DIR$/application/models/search.php" />
+        <option value="$PROJECT_DIR$/application/models/booking.php" />
+        <option value="$PROJECT_DIR$/application/models/SupplerModel.php" />
+        <option value="$PROJECT_DIR$/application/controllers/booking.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/destinations.php" />
+        <option value="$PROJECT_DIR$/application/views/backend/suppler/supplers.php" />
+        <option value="$PROJECT_DIR$/application/views/backend/clients/list_tickets.php" />
+        <option value="$PROJECT_DIR$/application/views/backend/supplers/supplers.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/supplers.php" />
+        <option value="$PROJECT_DIR$/application/views/backend/suppliers/list_tickets.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/settings.php" />
+        <option value="$PROJECT_DIR$/application/models/supplermodel.php" />
+        <option value="$PROJECT_DIR$/application/models/suppler.php" />
+        <option value="$PROJECT_DIR$/application/models/suppliers.php" />
+        <option value="$PROJECT_DIR$/application/views/includes/template.php" />
+        <option value="$PROJECT_DIR$/application/views/includes/test.php" />
+        <option value="$PROJECT_DIR$/application/views/backend/bookings/booking_success.php" />
+        <option value="$PROJECT_DIR$/application/docfile.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/docfile.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/docFile.php" />
+        <option value="$PROJECT_DIR$/application/views/includes/navigation.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/backend/suppliers/dialog_css.css" />
+        <option value="$PROJECT_DIR$/application/controllers/index.php" />
+        <option value="$PROJECT_DIR$/application/views/backend/bookings/bookings.php" />
+        <option value="$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_large_table.html" />
+        <option value="$PROJECT_DIR$/css/bootstrap-theme.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/css/dashboard.css" />
+        <option value="$PROJECT_DIR$/application/views/backend/suppliers/suppliers.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/bookings.php" />
+        <option value="$PROJECT_DIR$/application/models/supplier.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/suppliers.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="429" />
+    <option name="y" value="-25" />
+    <option name="width" value="1115" />
+    <option name="height" value="852" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="bookings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="clients" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="suppliers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="Sourcecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sourcecode" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/3csoft-server-7a4f5bcda5ec" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Sourcecode\application\controllers\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Sourcecode\application\models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.test.php">
+    <configuration name="test.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sourcecode/application/views/includes/test.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="docfile.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/application/controllers/admin/docfile.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="576da35c-7242-4b5e-83cb-92f9b563bee4" name="Default Changelist" comment="" />
+      <created>1544515860446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544515860446</updated>
+      <workItem from="1544515862015" duration="791000" />
+      <workItem from="1544602571994" duration="649000" />
+      <workItem from="1544605965552" duration="4812000" />
+      <workItem from="1544683481675" duration="14378000" />
+      <workItem from="1544770393785" duration="14039000" />
+      <workItem from="1545014608161" duration="140000" />
+      <workItem from="1545015095294" duration="4353000" />
+      <workItem from="1545037872909" duration="165000" />
+      <workItem from="1545038136187" duration="1202000" />
+      <workItem from="1545201990736" duration="6847000" />
+      <workItem from="1545268992380" duration="254000" />
+      <workItem from="1545269374323" duration="1199000" />
+      <workItem from="1545313517063" duration="1383000" />
+      <workItem from="1545317785101" duration="4316000" />
+      <workItem from="1545353876841" duration="2897000" />
+      <workItem from="1545374739706" duration="12190000" />
+      <workItem from="1545440993667" duration="122000" />
+      <workItem from="1545441344744" duration="9507000" />
+      <workItem from="1545633345086" duration="15069000" />
+      <workItem from="1545719987246" duration="12550000" />
+      <workItem from="1545806077589" duration="13175000" />
+      <workItem from="1545892970054" duration="2617000" />
+      <workItem from="1545895704351" duration="10364000" />
+      <workItem from="1545979099962" duration="14714000" />
+      <workItem from="1546411106736" duration="3925000" />
+      <workItem from="1546415138106" duration="9848000" />
+      <workItem from="1546498835491" duration="78000" />
+      <workItem from="1546499224359" duration="2011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162628000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1391258" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/system/core/Router.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/booking.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="74" selection-start-column="74" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/bookings/edit_booking.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/bookings/booking_success.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/bookings/add_ticket.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/bookings/pdf_generator.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/bookings/process_ticket.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helpers/dompdf/lib/class.pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3294" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/database/DB.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Classes/docFile.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/docFile.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/includes/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Classes/PHPExcel/Worksheet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="2497" column="27" lean-forward="true" selection-start-line="2497" selection-start-column="27" selection-end-line="2497" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/destinations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1746">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/language.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/datetimepicker.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/iconFont.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/suppliers/test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/login_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/tours.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/statistics.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/tours/tours.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/members.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/suppliers/dialog_add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/suppliers/list_tickets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helpers/language_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/bookings/bookings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helpers/dompdf/www/test/dom_large_table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="102" column="11" lean-forward="true" selection-start-line="102" selection-start-column="11" selection-end-line="102" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/suppliers/dialog_css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/dashboard/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36000">
+          <caret line="2000" column="6" selection-start-line="2000" selection-start-column="1" selection-end-line="2000" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/suppliers/suppliers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#form#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/booking.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/suppliers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/supplier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/clients.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="36" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/client.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/bookings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="117" column="45" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/frontend.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1818">
+          <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="4" column="66573" selection-start-line="4" selection-start-column="66569" selection-end-line="4" selection-end-column="66573" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+  </component>
+</project>
